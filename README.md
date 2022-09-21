@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeginnerArchitect89
-- 👀 I’m interested in Management Information Systems. Still deciding between Software Engineering or Cybersecurity
+- 👀 I’m interested in Management Information Systems. Still deciding between Software Engineering or Cybersecurity as a focus
 - 🌱 I’m currently learning an intro to CS in CP1
 - 💞️ I’m looking to collaborate on nothing yet 
 - 📫 How to reach me: Contact me privately
